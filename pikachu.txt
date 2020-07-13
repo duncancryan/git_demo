@@ -1,2 +1,3 @@
 move: fireball
 move: shockwave
+move: thunderbolt
