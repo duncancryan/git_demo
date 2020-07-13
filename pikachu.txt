@@ -2,3 +2,4 @@ move: fireball
 move: shockwave
 move: thunderbolt
 move: tackle
+weakness: ground type
